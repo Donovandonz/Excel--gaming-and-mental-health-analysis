@@ -321,7 +321,8 @@ This Gaming and Mental Health Dashboard is a comprehensive data analysis project
 # Gaming and Mental Health Dashboard Overview
 -<a href="https://github.com/Donovandonz/Excel--gaming-and-mental-health-analysis/blob/main/Gaming-and-mental-health-dashboard.png">Gaming-and-mental-health-dashboard</a>
 
-![Uploading Gaming-and-mental-health-dashboard.png…]()
+<img width="2580" height="1891" alt="Gaming-and-mental-health-dashboard" src="https://github.com/user-attachments/assets/165b738e-f695-4231-9432-f0a7cf858a92" />
+
 
 
 An interactive Excel dashboard analyzing the relationship between gaming habits and mental health indicators across different demographics.
